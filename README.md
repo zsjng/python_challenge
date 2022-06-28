@@ -1,2 +1,4 @@
 # python_challenge
-very interesting
+challenge website [here](http://www.pythonchallenge.com/)  
+try it yourself first.
+
