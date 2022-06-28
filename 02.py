@@ -1236,5 +1236,7 @@ for i in str1:
         d[i] += 1
 list1 = sorted(d, key=lambda x: d[x])
 for j in list1:
-    print(j,end='')
+    print(j, end='')
+
+# so next level is http://www.pythonchallenge.com/pc/def/equality.html
 
